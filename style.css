@@ -1,0 +1,37 @@
+html {
+  background-color: rgba(37, 79, 139, 0.427);
+}
+h1 {
+  text-align: start;
+  font: size 90px;
+  font-family: monospace;
+  color: rgb(224, 254, 108);
+}
+
+p1 {
+  color: rgb(188, 47, 47);
+  font-weight: bolder;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.hello {
+  color: azure;
+  font-family: initial;
+}
+
+.newclass {
+  color: azure;
+}
+
+.classy {
+  color: black;
+}
+
+#main {
+  color: black;
+}
+
+.new {
+  color: blueviolet;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
