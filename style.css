@@ -1,9 +1,11 @@
 html {
-  background-color: rgba(37, 79, 139, 0.427);
+  background-color: rgba(207, 155, 50, 0.603);
+  margin: 5%;
+  border: 3px solid;
 }
 h1 {
-  text-align: start;
-  font: size 90px;
+  font-size: l50px;
+  margin-left: 25%;
   font-family: monospace;
   color: rgb(224, 254, 108);
 }
@@ -17,10 +19,14 @@ p1 {
 .hello {
   color: azure;
   font-family: initial;
+  block-size: auto;
+  align-content: first baseline;
+  margin-left: 5%;
 }
 
 .newclass {
   color: azure;
+  margin-left: 5%;
 }
 
 .classy {
@@ -34,4 +40,18 @@ p1 {
 .new {
   color: blueviolet;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  margin-left: 19%;
+}
+
+.size {
+  block-size: auto;
+  margin-top: 5%;
+  margin-bottom: 2%;
+  margin-left: 25%;
+  margin-right: auto;
+  border: 5px black;
+}
+
+div {
+  margin-left: 5%;
 }
